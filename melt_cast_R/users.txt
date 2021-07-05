@@ -1,0 +1,7 @@
+name,status,salejun,salejul,saleaug
+Mark,VIP,1214,82,85
+Robert,VIP,714,12,585
+Martin,STANDARD,211,12,8553
+Anna,STANDARD,214,78,51
+Tony,STANDARD,514,943,95
+Tom,STANDARD,314,71,89
